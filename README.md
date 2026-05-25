@@ -61,11 +61,11 @@ Dataset contains:
 
 Sales-Trend-Visualization/
 
+│── README.md
+
 │── amazon.csv
 
 │── sales_project.py
-
-│── README.md
 
 │── Top Product Categories.png
 
